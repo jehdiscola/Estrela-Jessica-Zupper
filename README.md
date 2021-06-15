@@ -1,4 +1,4 @@
-*Desafio Estrelas Fora da Caixa Zupper*
+*Desafio Estrelas Fora da Caixa Zup*
 
 Conheça os pergonagens de Rick e Morty!
 
